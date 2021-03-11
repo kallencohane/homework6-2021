@@ -96,7 +96,7 @@ header{
 /*Requirement 9*/
 #logo{
    -webkit-animation-name: logo_grow;
-   -webkit-animation-duration: 5s;
+   -webkit-animation-duration: 15s;
    -webkit-animation-iteration-count: 1;
    animation-name: logo_grow;
    animation-duration: 5s;
