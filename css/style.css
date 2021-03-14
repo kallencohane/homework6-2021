@@ -99,7 +99,7 @@ header{
    -webkit-animation-duration: 15s;
    -webkit-animation-iteration-count: 1;
    animation-name: logo_grow;
-   animation-duration: 5s;
+   animation-duration: 15s;
    animation-iteration-count: 1;
 }
 
