@@ -105,11 +105,11 @@ header{
 
 /*Keyframes for animation*/
 @-webkit-keyframes logo_grow{
-  from {
+  0% {
     width: 25px;
     opacity: 0;
   }
-  to {
+  100% {
     width: 420px;
     opacity: 1;
   }
